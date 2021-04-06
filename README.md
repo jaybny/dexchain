@@ -1,4 +1,3 @@
-# dexdollar
-dexdollar:  an algorithmic stable coin backed by bitcoin and financial mathematics  
+# dexchain
+dexchain: a bitcoin sidechain decentralized exchange 
 
-dexdollar.com
